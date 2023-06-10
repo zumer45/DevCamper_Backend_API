@@ -4,8 +4,8 @@
   "description": "DevCamper Backend API",
   "main": "server.js",
   "scripts": {
-    "start": "set NODE_ENV=production node server",
-    "dev": "set nodemon server"
+    "start": " NODE_ENV=production node server",
+    "dev": " nodemon server"
   },
   "author": "Zaine Umer",
   "license": "MIT",
